@@ -4,25 +4,27 @@ A collection of Java JDBC projects developed using
 Eclipse, Java, JDBC and MySQL.
 
 ## Projects structure
+
 📁 JDBC-Projects
-│
-├── 📁 Banking-Management-JDBC
-│   ├── 📁 src
-│   ├── 📁 sql
-│   └── 📄 README.md
-│
-├── 📁 Bus-Reservation-Syatem-JDBC
-│   ├── 📁 src
-│   ├── 📁 sql
-│   └── 📄 README.md
-│
-├── 📁  Student-Management-JDBC
-│   ├── 📁 src
-│   ├── 📁 sql
-│   └── 📄 README.md
-│
-├── 📄 .gitignore
-└── 📄 README.md
+
+
+   📁 Banking-Management-JDBC
+        📁 src
+        📁 sql
+        📄 README.md
+
+   📁 Bus-Reservation-Syatem-JDBC
+        📁 src
+        📁 sql
+        📄 README.md
+
+   📁  Student-Management-JDBC
+        📁 src
+        📁 sql
+        📄 README.md
+
+   📄 .gitignore
+   📄 README.md
 
 
 
